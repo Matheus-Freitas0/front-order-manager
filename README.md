@@ -1,27 +1,55 @@
-# FrontOrderManager
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+# Front Order Manager
 
-## Development server
+O **Front Order Manager** é uma aplicação front-end desenvolvida em **Angular** para gerenciar pedidos e produtos de forma eficiente e intuitiva. Este projeto é parte de um sistema maior que visa otimizar a experiência de usuários e administradores na gestão de pedidos.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas
 
-## Code scaffolding
+- **Angular**: Framework para construção de aplicações web dinâmicas e robustas.
+- **TypeScript**: Linguagem que adiciona tipagem estática ao JavaScript, utilizada no desenvolvimento com Angular.
+- **CSS**: Estilos para uma interface visualmente agradável e responsiva.
+- **Angular Material**: Componentes UI para melhorar a experiência do usuário.
+- **Axios**: Cliente HTTP para comunicação com a API do back-end.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Funcionalidades
 
-## Build
+- Listagem de pedidos e produtos.
+- Criação, edição e exclusão de pedidos e produtos.
+- Visualização detalhada de pedidos.
+- Autenticação e autorização de usuários.
+- Filtros e buscas avançadas para facilitar a navegação.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Instalação
 
-## Running unit tests
+Para rodar a aplicação localmente, siga os passos abaixo:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/Matheus-Freitas0/front-order-manager.git` 
 
-## Running end-to-end tests
+2.  **Navegue até o diretório do projeto**:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+    `cd front-order-manager` 
+    
+3.  **Instale as dependências**:
 
-## Further help
+    `npm install` 
+    
+4.  **Inicie o servidor de desenvolvimento**:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+    `ng serve` 
+    
+5.  **Acesse a aplicação**: Abra o navegador e vá para `http://localhost:4200/`.
+    
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. 
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.
+
+## Contato
+
+Para perguntas ou sugestões, entre em contato comigo através do [GitHub](https://github.com/Matheus-Freitas0).
